@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/mkiba/nodejs/issues"
   },
-  "homepage": "https://github.com/mkiba/nodejs#readme"
+  "homepage": "https://github.com/mkiba/nodejs#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
 }
