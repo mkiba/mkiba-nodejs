@@ -1,0 +1,24 @@
+{
+  "name": "assignment1",
+  "version": "1.0.0",
+  "description": "fs Operations with args",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkiba/nodejs.git"
+  },
+  "keywords": [
+    "fs",
+    "writefile"
+  ],
+  "author": "Martial KIBA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mkiba/nodejs/issues"
+  },
+  "homepage": "https://github.com/mkiba/nodejs#readme"
+}
